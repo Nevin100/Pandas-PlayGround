@@ -1,8 +1,6 @@
 # 🐼 Pandas Playground
 
-Welcome to **Pandas-Playground** – my ongoing journey of revisiting **Exploratory Data Analysis (EDA)** and **Machine Learning fundamentals**, all through the power of **Jupyter Notebooks** and annotated with detailed **Markdown**!
-
-> ⚡ This repo is currently active and reflects my real-time revision and learning progress!
+Welcome to **Pandas-Playground** – my journey of revisiting **Exploratory Data Analysis (EDA)** and **Machine Learning fundamentals**, all through the power of **Jupyter Notebooks** and annotated with detailed **Markdown**!
 
 ---
 
@@ -10,27 +8,24 @@ Welcome to **Pandas-Playground** – my ongoing journey of revisiting **Explorat
 
 This is not just another pandas repo — it’s my **hands-on revision vault** where I break down concepts, code along, and explore patterns like a data detective 🕵️‍♂️.
 
-### 📓 Core Topics Covered (So Far)
+### 📓 Core Topics Covered
 - ✅ Pandas Fundamentals  
 - ✅ DataFrames & Series Deep Dive  
 - ✅ Indexing, Filtering & Masking  
 - ✅ Handling Missing Values  
 - ✅ Merging, Joining, GroupBy  
 - ✅ Descriptive Stats & Aggregations  
-- ⏳ Upcoming: Scikit-Learn ML pipelines & EDA case studies  
 
-> Each notebook is self-explanatory with inline markdown notes and visuals!
+> The Complete notebook is self-explanatory with inline markdown notes and visuals!
 
 ---
 
 ## 📁 Folder Structure
 
 Pandas-Playground/
-│── 01_pandas_basics.ipynb
+│── pandas.ipynb
 │── obesity_prediction_dataset.csv
 ├── README.md
-└── requirements.txt (coming soon)
-
 
 ---
 
@@ -52,16 +47,8 @@ cd Pandas-Playground
 -> pandas, numpy, jupyter
  <br/>
  ---
- 
-# 🏗️ Current Status: WORK IN PROGRESS 🔄
-This repo is alive and growing 💡
-Expect regular commits as I:
-<br/>
-Revisit old learnings ✅
-<br/>
-Explore new datasets 🔍
-<br/>
----
+
 # 📢 Why this repo?
 Because learning never stops!
+<br/>
 Whether you're a curious beginner or someone revising the core of EDA & ML — this playground is a solid checkpoint to revisit ideas, fix gaps, and get hands-on 💥
